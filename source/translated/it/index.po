@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, aavv
+# This file is distributed under the same license as the QGIS Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# FULL NAME <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Documentation 1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-05 12:57\n"
+"PO-Revision-Date: 2012-04-05 14:58+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# c82f84bd58b74ad39263ccf1249b39ec
+#: ../../index.rst:7
+msgid "Welcome to QGIS Documentation's documentation!"
+msgstr "Benvenuti alla documentazione di QGIS"
+
+# b52c732781ab42e7980cb37559e61dd0
+#: ../../index.rst:9
+msgid "Contents:"
+msgstr "Contenuti:"
+
+# 5c943d10f0df4178b4794b9127aa56f3
+#: ../../index.rst:19
+msgid "Indices and tables"
+msgstr "Indici e tabelle"
+
+# efd5d7db40b14b769cc5c6d42a0c4d27
+#: ../../index.rst:21
+msgid ":ref:`genindex`"
+msgstr ""
+
+# d62a08c3af634837ab6351aba9f6cfe3
+#: ../../index.rst:22
+msgid ":ref:`modindex`"
+msgstr ""
+
+# 9831c2b62fd94aa781e57b5e2c7708d5
+#: ../../index.rst:23
+msgid ":ref:`search`"
+msgstr ""

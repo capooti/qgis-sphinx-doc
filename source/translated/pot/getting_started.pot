@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, aavv
+# This file is distributed under the same license as the QGIS Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Documentation 1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-05 12:57\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../getting_started.rst:11
+# 94112c459bac4a2b8be66851984d311f
+msgid "Getting Started"
+msgstr ""
+
+#: ../../getting_started.rst:13
+# 0ccf3592a6144df6b2a431c65c0354e9
+msgid "This chapter gives a quick overview of installing |qg|, some sample data from the web page and running a first and simple session visualizing raster and vector layers."
+msgstr ""
+
+#: ../../getting_started.rst:18
+# ebc41a7c943f4774a34da42191e10a33
+msgid "Installation"
+msgstr ""
+
+#: ../../getting_started.rst:20
+# 8fbf74cd89234431890edcfc1545fe75
+msgid "Installation of |qg| is very simple. Standard installer packages are available for MS Windows and Mac OS X. For many flavors of GNU/Linux binary packages (rpm and deb) or software repositories to add to your installation manager are provided. Get the latest information on binary packages at the website at http://download.qgis.org."
+msgstr ""
+
+#: ../../getting_started.rst:28
+# 06402342d65841f38225dc30e320c4c9
+msgid "Installation from source"
+msgstr ""
+
+#: ../../getting_started.rst:30
+# 8c9eed37501f4881a8d22eec5e63c51f
+msgid "If you need to build from source, please refer to the coding and compiling guide available at http://www.qgis.org/en/documentation/manuals.html. The installation instructions are also distributed with the source code."
+msgstr ""
+
+#: ../../getting_started.rst:36
+# 496607f2645040b1a41a133fc9bb402e
+msgid "Installation on external media"
+msgstr ""
+
+#: ../../getting_started.rst:38
+# fb0c52834b684fa991d00f4c4497f525
+msgid "QGIS allows to define a -configpath option that overrides the default path (e.g. :cmd-txt:`/.qgis` under Linux) for user configuration and forces QSettings to use this directory, too. This allows users to e.g. carry a QGIS installation on a flash drive together with all plugins and settings."
+msgstr ""
+
+#: ../../getting_started.rst:45
+# fa33c6f5eb4a4f52a5407ef0025e7f60
+msgid "Sample Data"
+msgstr ""
+
+#: ../../getting_started.rst:47
+# bfa1da4f76a5471281e9297d66dc6df4
+msgid "The user guide contains examples based on the |qg| sample dataset."
+msgstr ""
+
+#: ../../getting_started.rst:49
+# 550f766e78714728b63e740a6fe0495a
+msgid "|win| The Windows installer has an option to download the |qg| sample dataset. If checked, the data will be downloaded to your :cmd-txt:`My Documents` folder and placed in a folder called :cmd-txt:`GIS Database`. You may use Windows Explorer to move this folder to any convenient location. If you did not select the checkbox to install the sample dataset during the initial installation, you can either"
+msgstr ""
+
+#: ../../getting_started.rst:56
+# a938a8af97ce45bf9f0408a9aa593314
+msgid "use GIS data that you already have;"
+msgstr ""
+
+#: ../../getting_started.rst:57
+# 2590b63f443e46ea939916df5f3e9fa4
+msgid "download the sample data from the qgis website at http://download.qgis.org; or"
+msgstr ""
+
+#: ../../getting_started.rst:59
+# 90e9970bc76a45d2bd13c666b81ac94b
+msgid "uninstall and reinstall with the data download option checked, only if the above solutions are unsuccessful."
+msgstr ""
+
+#: ../../getting_started.rst:63
+# 73c6661b69364beeaed54190ea495498
+msgid "|nix| |osx|  For GNU/Linux and Mac OSX there are not yet dataset installation packages available as rpm, deb or dmg. To use the sample dataset download the file :cmd-txt:`qgis_sample_data` as ZIP or TAR archive from http://download.osgeo.org/qgis/data/ and unzip or untar the archive on your system. The Alaska dataset includes all GIS data that are used as examples and screenshots in the user guide, and also includes a small GRASS database. The projection for the qgis sample dataset is Alaska Albers Equal Area with unit feet. The EPSG code is 2964."
+msgstr ""
+
+#: ../../getting_started.rst:96
+# 12590814766743659e427b6f5c814f66
+msgid "If you intend to use as graphical frontend for GRASS, you can find a selection of sample locations (e.g. Spearfish or South Dakota) at the official GRASS GIS website http://grass.osgeo.org/download/data.php."
+msgstr ""
+
+#: ../../getting_started.rst:102
+# 9b5eac0e07974b3e97d7ace03699bf1c
+msgid "Sample Session"
+msgstr ""
+
+#: ../../getting_started.rst:104
+# d0ec8381d39d4ae18d054bbef75cc632
+msgid "Now that you have installed and a sample dataset available, we would like to demonstrate a short and simple sample session. We will visualize a raster and a vector layer. We will use the landcover raster layer |qg| :cmd-txt:`_sample_data/raster/landcover.img` and the lakes vector layer :cmd-txt:`_sample_data/gml/lakes.gml`."
+msgstr ""
+
+#: ../../getting_started.rst:111
+# eb6263022b024002809a9043b1a49f6e
+msgid "Start |qg|"
+msgstr ""
+
+#: ../../getting_started.rst:113
+# f9f46b4d1ff44f85878ac348ede6486c
+msgid "|nix| Start |qg| by typing: |qg| at a command prompt, or if using precompiled binary, using the Applications menu."
+msgstr ""
+
+#: ../../getting_started.rst:115
+# 98910f884b5d4693a6e514bfc8578ca6
+msgid "|win| Start |qg| using the Start menu or desktop shortcut, or double click on a |qg| project file."
+msgstr ""
+
+#: ../../getting_started.rst:117
+# eb7aa71ae59c447d88e055b50b767969
+msgid "|osx| Double click the icon in your Applications folder."
+msgstr ""
+
+#: ../../getting_started.rst:125
+# 9b20118f901c4f07845fd15fca194b7d
+msgid "Load raster and vector layers from the sample dataset"
+msgstr ""
+
+#: ../../getting_started.rst:127
+# 400973a07ec24a98980bd5a94f666efc
+msgid "Click on the |mActionAddRasterLayer| :tool-name:`Load Raster` icon."
+msgstr ""
+
+#: ../../getting_started.rst:128
+# 02bec8b7cccb440fa045b83624223039
+msgid "Browse to the folder :cmd-txt:`qgis_sample_data/raster/`, select the ERDAS Img file :cmd-txt:`landcover.img` and click :button-name:`Open`."
+msgstr ""
+
+#: ../../getting_started.rst:131
+# e52cdba3224c4911aa1df6448e7f74a5
+msgid "If the file is not listed, check if the Filetype combobox at the bottom of the dialog is set on the right type, in this case \"Erdas Imagine Images (\\*.img, \\*.IMG)\""
+msgstr ""
+
+#: ../../getting_started.rst:134
+# 3213ef617aa54fbebf4417e73759fd71
+msgid "Now click on the |mActionAddOgrLayer| :tool-name:`Load Vector` icon."
+msgstr ""
+
+#: ../../getting_started.rst:135
+# 94e1f7c3e50e4e09b1a20f4c10b4e3fc
+msgid ":radio-name:`File` should be selected as Source Type in the new :dialog-name:`Add Vector Layer` dialog. Now click :button-name:`Browse` to select the vector layer."
+msgstr ""
+
+#: ../../getting_started.rst:139
+# 25bee1cb748f432dbcc4bc328ba2ed58
+msgid "Browse to the folder :cmd-txt:`qgis_sample_data/gml/`, select \"GML\" from the filetype combobox, then select the GML file :cmd-txt:`lakes.gml` and click :button-name:`Open`, then in Add Vector dialog click :button-name:`OK`."
+msgstr ""
+
+#: ../../getting_started.rst:143
+# c678a2cc03254ffba4308c6e04e7d835
+msgid "Zoom in a bit to your favorite area with some lakes."
+msgstr ""
+
+#: ../../getting_started.rst:144
+# 3decb9823fdc4a53909afd73817399a0
+msgid "Double click the :cmd-txt:`lakes` layer in the map legend to open the :dialog-name:`Properties` dialog."
+msgstr ""
+
+#: ../../getting_started.rst:146
+# d151e1b0331245e6a4cebeabb2808ad4
+msgid "Click on the :tab-name:`Style` tab and select a blue as fill color."
+msgstr ""
+
+#: ../../getting_started.rst:147
+# ff945ad487254e47aa7b2701472be917
+msgid "Click on the :tab-name:`Labels` tab and check the :check-name:`Display labels` checkbox to enable labeling. Choose NAMES field as field containing label."
+msgstr ""
+
+#: ../../getting_started.rst:150
+# bed79854fb94467fb34c2c9205185879
+msgid "To improve readability of labels, you can add a white buffer around them, by clicking \"Buffer\" in the list on the left, checking :check-name:`Buffer labels?` and choosing 3 as buffer size."
+msgstr ""
+
+#: ../../getting_started.rst:153
+# cd6c816f5ec7498fa450ab7f4b33eafd
+msgid "Click :button-name:`Apply`, check if the result looks good and finally click :button-name:`OK`."
+msgstr ""
+
+#: ../../getting_started.rst:156
+# 1bc806ea447042dca9d31d667ed93f17
+msgid "You can see how easy it is to visualize raster and vector layers in . Let's move on to the sections that follow to learn more about the available functionality, features and settings and how to use them."
+msgstr ""
+
