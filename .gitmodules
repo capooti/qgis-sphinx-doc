@@ -1,0 +1,3 @@
+[submodule "externals/QGIS-Governance"]
+	path = externals/QGIS-Governance
+	url = git@github.com:capooti/QGIS-Governance.git
