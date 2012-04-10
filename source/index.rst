@@ -13,7 +13,7 @@ Contents:
 
    introduction
    getting_started
-
+   features_at_a_glance
 
 Indices and tables
 ==================

@@ -1,10 +1,4 @@
-.. role:: cmd-txt
-.. role:: button-name
-.. role:: tool-name
-.. role:: dialog-name
-.. role:: tab-name
-.. role:: radio-name
-.. role:: check-name
+.. _getting-started:
 
 ********************************************************************************
 Getting Started
@@ -98,6 +92,8 @@ a selection of sample locations (e.g. Spearfish or South Dakota) at
 the official GRASS GIS website
 http://grass.osgeo.org/download/data.php.
 
+.. _getting-started-sample-session:
+
 Sample Session
 ================================================================================
 
@@ -158,13 +154,6 @@ in . Let's move on to the sections that follow to learn more about
 the available functionality, features and settings and how to use
 them.
 
-.. |qg| replace:: QGIS
-.. |osx| image:: images/operating_system_icons/osx.png
-   :height: 12
-.. |win| image:: images/operating_system_icons/win.png
-   :height: 12
-.. |nix| image:: images/operating_system_icons/nix.png
-   :height: 12
 .. |mActionAddRasterLayer| image:: images/images/mActionAddRasterLayer.png
 .. |mActionAddOgrLayer| image:: images/images/mActionAddOgrLayer.png
 

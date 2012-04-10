@@ -247,3 +247,24 @@ intersphinx_mapping = {'http://docs.python.org/': None}
 
 locale_dirs = ['translated']
 
+# all the custom rules will be included at the prolog of each source file
+rst_prolog = """
+.. role:: cmd-txt
+.. role:: button-name
+.. role:: tool-name
+.. role:: dialog-name
+.. role:: tab-name
+.. role:: radio-name
+.. role:: check-name
+"""
+
+# all the substitutions will be included at the epilog of each source file 
+rst_epilog = """
+.. |qg| replace:: QGIS
+.. |osx| image:: images/operating_system_icons/osx.png
+   :height: 12
+.. |win| image:: images/operating_system_icons/win.png
+   :height: 12
+.. |nix| image:: images/operating_system_icons/nix.png
+   :height: 12
+"""
