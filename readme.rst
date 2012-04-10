@@ -5,7 +5,7 @@ QGIS Documentation
 Introduction
 ================================================================================
 
-`View Online (html) <http://readthedocs.org/docs/qgis-governance/en/latest/>`_ 
+`View Online (html) <http://readthedocs.org/docs/qgis-sphinx-doc>`_ 
 (only in English, ReadTheDocs does not support Internationalization at this
 time)
 
