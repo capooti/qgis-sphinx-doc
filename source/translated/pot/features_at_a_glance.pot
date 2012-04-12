@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, aavv
+# This file is distributed under the same license as the QGIS Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Documentation 1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-12 16:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../features_at_a_glance.rst:14
+# 1354311fbf3b41ac8be734c72ea4d984
+msgid "Features at a Glance"
+msgstr ""
+
+#: ../../features_at_a_glance.rst:16
+# 37172d8511294d28afa26449582e9a54
+msgid "After a first and simple sample session in :ref:`Section 2 <getting-started>` we now want to give you a more detailed overview of the features of QGIS. Most features presented in the following chapters will be explained and described in own sections later in the manual."
+msgstr ""
+
+#: ../../features_at_a_glance.rst:22
+# 86ffc0c5eb4b4aa0b46a81fe3b6dbe19
+msgid "Starting and Stopping QGIS"
+msgstr ""
+
+#: ../../features_at_a_glance.rst:24
+# b4d09af3547c481ba81340b7d0483c0d
+msgid "In :ref:`Section 2.3 <getting-started-sample-session>` you already learned how to start QGIS. We will repeat this here and you will see that QGIS also provides further command line options."
+msgstr ""
+
+#: ../../features_at_a_glance.rst:28
+# cbac1019821741158008b3d1a3b249c7
+msgid "|nix| Assuming that QGIS is installed in the PATH, you can start QGIS by typing: qgis at a command prompt or by double clicking on the QGIS application link (or shortcut) on the desktop or in the application menu."
+msgstr ""
+
+#: ../../features_at_a_glance.rst:31
+# 8ca3fb9131ec4bc3b48f8ba5a7e4197b
+msgid "|win| Start QGIS using the Start menu or desktop shortcut, or double click on a QGIS project file."
+msgstr ""
+
+#: ../../features_at_a_glance.rst:33
+# fdf3ecf0edc94468a60056dce72d4e46
+msgid "|osx| Double click the icon in your Applications folder. If you need to start QGIS in a shell, run /path-to-installation-executable/Contents/MacOS/Qgis."
+msgstr ""
+
+#: ../../features_at_a_glance.rst:36
+# 292dddc4cf364eff8922f974a36ceaa7
+msgid "To stop QGIS, click the menu options {|nix| |win| |osx|} Quit, or use the shortcut Ctrl+Q"
+msgstr ""
+
