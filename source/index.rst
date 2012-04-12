@@ -14,6 +14,15 @@ Contents:
    introduction
    getting_started
    features_at_a_glance
+   
+Useful QGIS resources:
+
+* :ref:`pyqgis:introduction`
+* :ref:`governance:index`
+
+Useful Python resources:
+
+* :ref:`the original Python documentation <python:tutorial-index>`
 
 Indices and tables
 ==================

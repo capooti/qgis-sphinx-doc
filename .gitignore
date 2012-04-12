@@ -3,6 +3,6 @@
 _build
 *.mo
 *.po~
-*.doctree
-
+source/translated/pot/.doctrees
+source/translated/it/.doctrees
 

@@ -241,9 +241,14 @@ texinfo_documents = [
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
 
+# intersphinx mapping
 
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'http://docs.python.org/': None}
+intersphinx_mapping = {
+    'python': ('http://docs.python.org/', None),
+    'sphinx': ('http://sphinx.pocoo.org', None),
+    'pyqgis': ('http://qgis.org/pyqgis-cookbook/', None),
+    'governance': ('http://readthedocs.org/docs/qgis-governance/en/latest/', None),
+}
 
 locale_dirs = ['translated']
 

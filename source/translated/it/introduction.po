@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation 1.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-12 16:02\n"
+"POT-Creation-Date: 2012-04-12 18:07\n"
 "PO-Revision-Date: 2012-04-05 14:55+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # d9bdf897bd8f4ac8acdf75a3669c2122
-#: ../../introduction.rst:12
+#: ../../introduction.rst:14
 msgid "Introduction To Geographical Information System (GIS)"
 msgstr ""
 
 # ee56d88478894dc09733dc072365ec4f
-#: ../../introduction.rst:14
+#: ../../introduction.rst:16
 msgid ""
 "A Geographical Information System (GIS) [1]_ is a collection of software "
 "that allows you to create, visualize, query and analyze geospatial data. "
@@ -43,7 +43,7 @@ msgstr ""
 "spaziali."
 
 # 087beb72859044e895d3a261311b5179
-#: ../../introduction.rst:23
+#: ../../introduction.rst:25
 msgid ""
 "Applications using geospatial data perform a variety of functions. Map "
 "production is the most easily understood function of geospatial "
@@ -61,7 +61,7 @@ msgstr ""
 "usufruisce attraverso un’applicazione desktop o una pagina web."
 
 # 7a708b07b51b48f88dd5b3ca319253fe
-#: ../../introduction.rst:31
+#: ../../introduction.rst:33
 msgid ""
 "Many people mistakenly assume that geospatial applications just produce "
 "maps, but geospatial data analysis is another primary function of geospatial "
@@ -73,12 +73,12 @@ msgstr ""
 "possono essere condotte sono:"
 
 # c3aec391371344adb8f7e4a9987fb1fb
-#: ../../introduction.rst:37
+#: ../../introduction.rst:39
 msgid "distances between geographic locations"
 msgstr "distanze tra posizioni geografiche"
 
 # 955a470f6abe431299ffbbca516d3ea6
-#: ../../introduction.rst:39
+#: ../../introduction.rst:41
 msgid ""
 "the amount of area (e.g., square meters) within a certain geographic region"
 msgstr ""
@@ -86,27 +86,27 @@ msgstr ""
 "geografica"
 
 # fc6d59ee14344a0d8c46f891df79c364
-#: ../../introduction.rst:42
+#: ../../introduction.rst:44
 msgid "what geographic features overlap other features"
 msgstr "quali elementi geografici si sovrappongono ad altri"
 
 # 81b814359e844f1793ed74831dd271bf
-#: ../../introduction.rst:44
+#: ../../introduction.rst:46
 msgid "the amount of overlap between features"
 msgstr "determinazione dell’entità della sovrapposizione tra elementi"
 
 # 2bf933018de0461398d1bc5a584a2ffe
-#: ../../introduction.rst:46
+#: ../../introduction.rst:48
 msgid "the number of locations within a certain distance of another"
 msgstr "il numero di posizioni comprese entro una certa distanza da un’altra"
 
 # 21ee35a6c73241d59727657289a340d3
-#: ../../introduction.rst:48
+#: ../../introduction.rst:50
 msgid "and so on..."
 msgstr "e così via..."
 
 # 1bb1168c57384db794e2bf30e7a08e16
-#: ../../introduction.rst:51
+#: ../../introduction.rst:53
 msgid ""
 "These may seem simplistic, but can be applied in all sorts of ways across "
 "many disciplines. The results of analysis may be shown on a map, but are "
@@ -118,7 +118,7 @@ msgstr ""
 "report a supporto di decisioni gestionali."
 
 # 58f2a33b0eca4a64a1b63a3313379a69
-#: ../../introduction.rst:56
+#: ../../introduction.rst:58
 msgid ""
 "The recent phenomena of location-based services promises to introduce all "
 "sorts of other features, but many will be based on a combination of maps and "
@@ -138,12 +138,12 @@ msgstr ""
 "basata su analisi geospaziale del dato e presentazione dei risultati."
 
 # b8071a4c43da46568b15df8ecbc520fb
-#: ../../introduction.rst:66
+#: ../../introduction.rst:68
 msgid "Why is all this so new?"
 msgstr "Perché tutto questo è una novità?"
 
 # d54596c48c654016acdabd4f5d612607
-#: ../../introduction.rst:68
+#: ../../introduction.rst:70
 msgid ""
 "Well, it's not. There are many new hardware devices that are enabling mobile "
 "geospatial services. Many open source geospatial applications are also "
@@ -165,7 +165,7 @@ msgstr ""
 "nell’ambito della gestione delle risorse naturali."
 
 # 677e3fc0c57344b0bdc8f3f15042496e
-#: ../../introduction.rst:78
+#: ../../introduction.rst:80
 msgid ""
 "What is new is how the latest hardware and software is being applied and who "
 "is applying it. Traditional users of mapping and analysis tools were highly "
@@ -187,7 +187,7 @@ msgstr ""
 "sono diminuiti. La quantità di tecnologia geospaziale è cresciuta."
 
 # a9964c57f57d42c5bf007046dc94fce3
-#: ../../introduction.rst:88
+#: ../../introduction.rst:90
 msgid ""
 "How is geospatial data stored? In a nutshell, there are two types of "
 "geospatial data in widespread use today. This is in addition to traditional "
@@ -199,12 +199,12 @@ msgstr ""
 "dalle applicazioni geospaziali."
 
 # 5e3740877d5c4c2787326fb348f27acb
-#: ../../introduction.rst:94
+#: ../../introduction.rst:96
 msgid "Raster Data"
 msgstr "Dati raster"
 
 # d1e3c255daf2467bb9480efc8f560d28
-#: ../../introduction.rst:96
+#: ../../introduction.rst:98
 msgid ""
 "One type of geospatial data is called raster data or simply \"a raster\". "
 "The most easily recognised form of raster data is digital satellite imagery "
@@ -220,7 +220,7 @@ msgstr ""
 "sono delle limitazioni."
 
 # 17dbe2f715224c4ea4780765708a772f
-#: ../../introduction.rst:103
+#: ../../introduction.rst:105
 msgid ""
 "A raster is a regular grid made up of cells, or in the case of imagery, "
 "pixels. They have a fixed number of rows and columns. Each cell has a "
@@ -231,7 +231,7 @@ msgstr ""
 "valore numerico e una certa dimensione geografica (ad es. 30x30 metri)."
 
 # 9c7ab1c60c304816ac3eaf6ed2fd18bd
-#: ../../introduction.rst:108
+#: ../../introduction.rst:110
 msgid ""
 "Multiple overlapping rasters are used to represent images using more than "
 "one colour value (i.e. one raster for each set of red, green and blue values "
@@ -254,12 +254,12 @@ msgstr ""
 "dimensione della cella ai fini analitici o di mappatura. "
 
 # 69a16cff72d54dbf802a378ead08055a
-#: ../../introduction.rst:120
+#: ../../introduction.rst:122
 msgid "Vector Data"
 msgstr "Dati vettoriali"
 
 # f40d5302d37244229067f50572ac1a20
-#: ../../introduction.rst:122
+#: ../../introduction.rst:124
 msgid ""
 "Vector data is also used in geospatial applications. If you stayed awake "
 "during trigonometry and coordinate geometry classes, you will already be "
@@ -276,7 +276,7 @@ msgstr ""
 "di valori y e x."
 
 # 78bfa7c52f5445d99038542ab18a4ef9
-#: ../../introduction.rst:129
+#: ../../introduction.rst:131
 msgid ""
 "This can be thought of in reference to a Cartesian plane - you know, the "
 "diagrams from school that showed an x and y-axis. You might have used them "
@@ -291,7 +291,7 @@ msgstr ""
 "della mappatura del dato geospaziale."
 
 # 39587f2fd0f449e192cc73633811985b
-#: ../../introduction.rst:135
+#: ../../introduction.rst:137
 msgid ""
 "There are various ways of representing these geographic coordinates "
 "depending on your purpose. This is a whole area of study for another day - "
@@ -301,7 +301,7 @@ msgstr ""
 "dei sistemi di proiezione cartografiche."
 
 # 7a613803ab20438f8f55e1a2c7daa1a8
-#: ../../introduction.rst:139
+#: ../../introduction.rst:141
 msgid ""
 "Vector data takes on three forms, each progressively more complex and "
 "building on the former."
@@ -310,7 +310,7 @@ msgstr ""
 "basate sulla forma precedente."
 
 # f7a5dc7686c144bc8dacb8360a5f6283
-#: ../../introduction.rst:143
+#: ../../introduction.rst:145
 msgid ""
 "Points - A single coordinate (x y) represents a discrete geographic location"
 msgstr ""
@@ -318,7 +318,7 @@ msgstr ""
 "geografica"
 
 # 7668691ee8aa4f85b32772677d45a5d8
-#: ../../introduction.rst:146
+#: ../../introduction.rst:148
 msgid ""
 "Lines - Multiple coordinates (x1 y1, x2 y2, x3 y4, ... xn yn) strung "
 "together in a certain order, like drawing a line from Point (x1 y1) to Point "
@@ -337,7 +337,7 @@ msgstr ""
 "costituita da linee multiple collegate insieme."
 
 # 11f98ae4347346f4a481e4cb64398370
-#: ../../introduction.rst:155
+#: ../../introduction.rst:157
 msgid ""
 "Polygons - When lines are strung together by more than two points, with the "
 "last point being at the same location as the first, we call this a polygon. "
@@ -350,7 +350,7 @@ msgstr ""
 "caratteristica principale dei poligoni è che essi racchiudono un’area."
 
 # 79c65fed481f4615b34c0851336e79d5
-#: ../../introduction.rst:163
+#: ../../introduction.rst:165
 msgid ""
 "This chapter is by Tyler Mitchell (http://www.oreillynet.com/pub/wlg/7053) "
 "and used under the Creative Commons License. Tyler is the author of *Web "

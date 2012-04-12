@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation 1.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-12 16:02\n"
+"POT-Creation-Date: 2012-04-12 18:07\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,22 +26,47 @@ msgstr ""
 msgid "Contents:"
 msgstr ""
 
-#: ../../index.rst:28
-# 5c943d10f0df4178b4794b9127aa56f3
-msgid "Indices and tables"
+#: ../../index.rst:27
+# ebfd8b0312d14fe396902ef9bc8d8b27
+msgid "Useful QGIS resources:"
+msgstr ""
+
+#: ../../index.rst:29
+# 1f2a88cee60b46b081c64b197bdc15bd
+msgid ":ref:`pyqgis:introduction`"
 msgstr ""
 
 #: ../../index.rst:30
 # efd5d7db40b14b769cc5c6d42a0c4d27
+msgid ":ref:`governance:index`"
+msgstr ""
+
+#: ../../index.rst:32
+# 547a6708b3b6450d977197b594619dcb
+msgid "Useful Python resources:"
+msgstr ""
+
+#: ../../index.rst:34
+# 1e7e550236884e7bad2c31f59bf7d9ab
+msgid ":ref:`the original Python documentation <python:tutorial-index>`"
+msgstr ""
+
+#: ../../index.rst:37
+# 5c943d10f0df4178b4794b9127aa56f3
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:39
+# efd5d7db40b14b769cc5c6d42a0c4d27
 msgid ":ref:`genindex`"
 msgstr ""
 
-#: ../../index.rst:31
+#: ../../index.rst:40
 # d62a08c3af634837ab6351aba9f6cfe3
 msgid ":ref:`modindex`"
 msgstr ""
 
-#: ../../index.rst:32
+#: ../../index.rst:41
 # 9831c2b62fd94aa781e57b5e2c7708d5
 msgid ":ref:`search`"
 msgstr ""
