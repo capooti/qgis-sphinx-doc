@@ -1,5 +1,7 @@
 # ignore pyc files (if any)
 *.pyc
 _build
+.po~
+.doctree
 
 

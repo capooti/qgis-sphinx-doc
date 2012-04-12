@@ -1,8 +1,8 @@
 ********************************************************************************
-Introduction To GIS
+Introduction To Geographical Information System (GIS)
 ********************************************************************************
 
-A Geographical Information System (GIS) [1]_ is a
+A Geographical Information System (GIS) [1]_ is a 
 collection of software that allows you to create, visualize, query
 and analyze geospatial data. Geospatial data refers to information
 about the geographic location of an entity. This often involves the
