@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: QGIS Documentation 1.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-12 16:02\n"
-"PO-Revision-Date: 2012-04-14 12:59+0200\n"
-"Last-Translator: Administrator <>\n"
+"PO-Revision-Date: 2012-04-14 13:06+0200\n"
+"Last-Translator: Paolo <pcorti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgstr ""
 # 86ffc0c5eb4b4aa0b46a81fe3b6dbe19
 #: ../../features_at_a_glance.rst:22
 msgid "Starting and Stopping QGIS"
-msgstr "Avviare e stoppare QGIS"
+msgstr "Avviare e fermare QGIS"
 
 # b4d09af3547c481ba81340b7d0483c0d
 #: ../../features_at_a_glance.rst:24
@@ -56,4 +56,4 @@ msgstr ""
 # 292dddc4cf364eff8922f974a36ceaa7
 #: ../../features_at_a_glance.rst:36
 msgid "To stop QGIS, click the menu options {|nix| |win| |osx|} Quit, or use the shortcut Ctrl+Q"
-msgstr ""
+msgstr "Per avviare QGIS...."
