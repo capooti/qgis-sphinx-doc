@@ -51,7 +51,7 @@ msgstr ""
 # fdf3ecf0edc94468a60056dce72d4e46
 #: ../../features_at_a_glance.rst:33
 msgid "|osx| Double click the icon in your Applications folder. If you need to start QGIS in a shell, run /path-to-installation-executable/Contents/MacOS/Qgis."
-msgstr ""
+msgstr "|osx| Fare un doppio click sul folder Applicazioni"
 
 # 292dddc4cf364eff8922f974a36ceaa7
 #: ../../features_at_a_glance.rst:36
