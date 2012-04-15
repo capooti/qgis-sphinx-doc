@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: QGIS Documentation 1.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-12 16:02\n"
-"PO-Revision-Date: 2012-04-14 13:06+0200\n"
-"Last-Translator: Paolo <pcorti@gmail.com>\n"
+"PO-Revision-Date: 2012-04-15 13:22+0200\n"
+"Last-Translator: admin <pcorti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: it\n"
+"Language: features_at_a_glance\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Weblate 0.9\n"
 
 # 1354311fbf3b41ac8be734c72ea4d984
 #: ../../features_at_a_glance.rst:14
 msgid "Features at a Glance"
-msgstr ""
+msgstr "Features in sintesi"
 
 # 37172d8511294d28afa26449582e9a54
 #: ../../features_at_a_glance.rst:16
