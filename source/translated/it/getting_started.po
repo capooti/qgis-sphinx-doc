@@ -9,13 +9,15 @@ msgstr ""
 "Project-Id-Version: QGIS Documentation 1.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-12 15:56\n"
-"PO-Revision-Date: 2012-04-05 13:29+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-15 14:01+0200\n"
+"Last-Translator: capooti <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: getting_started\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 0.9\n"
 
 # 94112c459bac4a2b8be66851984d311f
 #: ../../getting_started.rst:14
@@ -286,7 +288,7 @@ msgstr ""
 # c678a2cc03254ffba4308c6e04e7d835
 #: ../../getting_started.rst:148
 msgid "Zoom in a bit to your favorite area with some lakes."
-msgstr "Ingrandire un la vista su un’area a vostra scelta con alcuni laghi."
+msgstr "Ingrandire un la vista su una area a vostra scelta con alcuni laghi."
 
 # 3decb9823fdc4a53909afd73817399a0
 #: ../../getting_started.rst:149
